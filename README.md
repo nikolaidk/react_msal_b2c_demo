@@ -74,8 +74,8 @@ npm install
 #### Running the sample development server
 
 1. In a command prompt, run `npm start`.
-1. Open [http://localhost:4200](http://localhost:4200) to view it in the browser.
-1. Open [http://localhost:4200/profile](http://localhost:4200/profile) to see an example of a protected route. If you are not yet signed in, signin will be invoked automatically.
+1. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+1. Open [http://localhost:3000/profile](http://localhost:3000/profile) to see an example of a protected route. If you are not yet signed in, signin will be invoked automatically.
 
 The page will reload if you make edits.
 You will also see any lint errors in the console.
@@ -86,8 +86,8 @@ You will also see any lint errors in the console.
 
 1. In a command prompt, run `npm run build`.
 1. Next run `serve -s build`
-1. Open [http://localhost:4200](http://localhost:4200) to view it in the browser.
-1. Open [http://localhost:4200/profile](http://localhost:4200/profile) to see an example of a protected route. If you are not yet signed in, signin will be invoked automatically.
+1. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+1. Open [http://localhost:3000/profile](http://localhost:3000/profile) to see an example of a protected route. If you are not yet signed in, signin will be invoked automatically.
 
 #### Learn more about the 3rd-party libraries used to create this sample
 
@@ -95,3 +95,6 @@ You will also see any lint errors in the console.
 - [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started)
 - [React Router documentation](https://reactrouter.com/web/guides/quick-start)
 - [Material-UI documentation](https://material-ui.com/getting-started/installation/)
+
+#### Setup webapi in Azure AD B2C
+- [WebApi](https://docs.microsoft.com/en-us/azure/active-directory-b2c/add-web-api-application?tabs=app-reg-ga).

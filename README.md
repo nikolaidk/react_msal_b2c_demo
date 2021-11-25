@@ -97,4 +97,4 @@ You will also see any lint errors in the console.
 - [Material-UI documentation](https://material-ui.com/getting-started/installation/)
 
 #### Setup webapi in Azure AD B2C
-- [WebApi](https://docs.microsoft.com/en-us/azure/active-directory-b2c/add-web-api-application?tabs=app-reg-ga).
+- [Add a web API application to your Azure Active Directory B2C tenant](https://docs.microsoft.com/en-us/azure/active-directory-b2c/add-web-api-application?tabs=app-reg-ga).
